@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647920574,
-        "narHash": "sha256-D3ob5QykELhyNcTnISOkjEzLlgXltwON8Ucrz5cpiQI=",
+        "lastModified": 1648105061,
+        "narHash": "sha256-Je25qNlH4xrH3+m6vIq6yPvdfQ80FRTwX4JOhrRLduc=",
         "owner": "riinr",
         "repo": "nim-flakes-lib",
-        "rev": "bfb46a1f762002f07f9d81d93dacd544c6890623",
+        "rev": "f1ec5e2f15b9f717c33b6942ce7cb344ff868522",
         "type": "github"
       },
       "original": {
@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "v1_1_6",
-        "lastModified": 1647935042,
-        "narHash": "sha256-SARdq+QiHvp+0nIXMNYqRc0jck2XN3op/bqhukov+KU=",
+        "lastModified": 1648108189,
+        "narHash": "sha256-+2HkrTkStaxeiRYmnPTo4qSAF+628nsPrEfe03elBjw=",
         "owner": "nim-nix-pkgs",
         "repo": "turn_based_game",
-        "rev": "2aac7fcc6129be0faa9d1bc09b0bced51eaabffd",
+        "rev": "11fb813dc146cc8b73667413f1445932afaa39dc",
         "type": "github"
       },
       "original": {
