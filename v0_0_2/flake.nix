@@ -11,6 +11,7 @@
   inputs.src-negamax-v0_0_2.ref   = "refs/tags/v0.0.2";
   inputs.src-negamax-v0_0_2.owner = "JohnAD";
   inputs.src-negamax-v0_0_2.repo  = "negamax";
+  inputs.src-negamax-v0_0_2.dir   = "";
   inputs.src-negamax-v0_0_2.type  = "github";
   
   inputs."turn_based_game".owner = "nim-nix-pkgs";
