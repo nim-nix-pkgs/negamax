@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651556765,
-        "narHash": "sha256-UK6++4VcMcJmBGFon33enCPJP2S4pg82FtodrigHmeA=",
+        "lastModified": 1652367258,
+        "narHash": "sha256-kq9JXi+XPAPRBvlLLnlzpRfwpmqnlF9qpLDHF8iTJdY=",
         "owner": "nim-nix-pkgs",
         "repo": "negamax",
-        "rev": "51d5cf03c014dfcc06e266b01bc28a361a83b49b",
+        "rev": "f988a6cda3c0d09dfa7244eb729f3fc2cb7c6c15",
         "type": "github"
       },
       "original": {
@@ -62,11 +62,11 @@
       },
       "locked": {
         "dir": "v0_0_1",
-        "lastModified": 1651556765,
-        "narHash": "sha256-UK6++4VcMcJmBGFon33enCPJP2S4pg82FtodrigHmeA=",
+        "lastModified": 1652367258,
+        "narHash": "sha256-kq9JXi+XPAPRBvlLLnlzpRfwpmqnlF9qpLDHF8iTJdY=",
         "owner": "nim-nix-pkgs",
         "repo": "negamax",
-        "rev": "51d5cf03c014dfcc06e266b01bc28a361a83b49b",
+        "rev": "f988a6cda3c0d09dfa7244eb729f3fc2cb7c6c15",
         "type": "github"
       },
       "original": {
@@ -90,11 +90,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1651556765,
-        "narHash": "sha256-UK6++4VcMcJmBGFon33enCPJP2S4pg82FtodrigHmeA=",
+        "lastModified": 1652367258,
+        "narHash": "sha256-kq9JXi+XPAPRBvlLLnlzpRfwpmqnlF9qpLDHF8iTJdY=",
         "owner": "nim-nix-pkgs",
         "repo": "negamax",
-        "rev": "51d5cf03c014dfcc06e266b01bc28a361a83b49b",
+        "rev": "f988a6cda3c0d09dfa7244eb729f3fc2cb7c6c15",
         "type": "github"
       },
       "original": {
@@ -118,11 +118,11 @@
       },
       "locked": {
         "dir": "v0_0_3",
-        "lastModified": 1651556765,
-        "narHash": "sha256-UK6++4VcMcJmBGFon33enCPJP2S4pg82FtodrigHmeA=",
+        "lastModified": 1652367258,
+        "narHash": "sha256-kq9JXi+XPAPRBvlLLnlzpRfwpmqnlF9qpLDHF8iTJdY=",
         "owner": "nim-nix-pkgs",
         "repo": "negamax",
-        "rev": "51d5cf03c014dfcc06e266b01bc28a361a83b49b",
+        "rev": "f988a6cda3c0d09dfa7244eb729f3fc2cb7c6c15",
         "type": "github"
       },
       "original": {
@@ -304,11 +304,11 @@
       },
       "locked": {
         "dir": "v1_1_6",
-        "lastModified": 1650750652,
-        "narHash": "sha256-v7U4Z7tiE7NLqbgSEiGcsant3UbZnPkDGG9LkLx7uUc=",
+        "lastModified": 1651918541,
+        "narHash": "sha256-NW7vEHkVkgVJISSQQDTzrWe1xha+ZkSj29tfakTqD9U=",
         "owner": "nim-nix-pkgs",
         "repo": "turn_based_game",
-        "rev": "f2398371daf132d566fcebe3eebb2d5b6b58aeae",
+        "rev": "25e8e343e56b096dbb31ec1d9ed10b307ef530a4",
         "type": "github"
       },
       "original": {
