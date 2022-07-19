@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v1_1_6",
-        "lastModified": 1658032293,
-        "narHash": "sha256-1jDEL9F7ua69bkygzhbAid0zGpGlyualc7NPV4g+L8U=",
+        "lastModified": 1658201982,
+        "narHash": "sha256-rwsl6jhvjPkfW7i5pHcKKjs4LlJhkqHQEVQPYllFKGY=",
         "owner": "nim-nix-pkgs",
         "repo": "turn_based_game",
-        "rev": "7fcf3a1b20e9a71761c5a693ed288850518724df",
+        "rev": "a725205941c8206807fcdf78f56cac294768d6e4",
         "type": "github"
       },
       "original": {
