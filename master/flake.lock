@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667110639,
+        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
         "type": "github"
       },
       "original": {
@@ -89,11 +89,11 @@
       },
       "locked": {
         "dir": "v1_1_6",
-        "lastModified": 1662254902,
-        "narHash": "sha256-pzAYXAw6P9E1jpdRfDTtjJOPIvqg4KQ5T7V3Tbvprwg=",
+        "lastModified": 1667322756,
+        "narHash": "sha256-G0E966Y6sySyimCP1X7VmF+bF96hntukZXIv8kIDF1M=",
         "owner": "nim-nix-pkgs",
         "repo": "turn_based_game",
-        "rev": "0356f2347a9095f001af292d5a0dc648390c145d",
+        "rev": "eec744a654822c348bd146e9662d50b43b086e5d",
         "type": "github"
       },
       "original": {
